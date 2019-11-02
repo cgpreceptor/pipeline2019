@@ -1,16 +1,35 @@
+<<<<<<< HEAD
 Hasiel Hassan Alvarez Zavala
+<3 Adriana Perez Alvarado
+=======
+﻿# Hasiel Hassan Alvarez Zavala
 Adriana Perez Alvarado
+<<<<<<< HEAD
 <<<<<<< HEAD
 ☻Luis Ernesto Soto Valle Chang
 =======
+=======
+>>>>>>> 7b9751cef59f1de67e74084e4656d01afe7ec408
+>>>>>>> 88b472413a7aa68d4a0250baec9d7c2bd026da7f
 Luis Ernesto Soto Valle Chang
+<<<<<<< HEAD
+|°| Cristian Neftali Mendoza
+=======
 Constantino Valenzuela González
 >>>>>>> 551161b5452cc8b0221cde759a9baeedbd2e4912
 Cristian Neftali Mendoza
+>>>>>>> 551161b5452cc8b0221cde759a9baeedbd2e4912
 Andres Salvador Silva Fdz
 Diego Fernando Zetter Cervantes
 Douglas Woolfolk Martinez
 Pablo Montenegro Bueno
 Mariana Alejandra Luna López
+<<<<<<< HEAD
+Majo Manzo*
+
+
+
+=======
 Oscar Moctezuma Bermúdez Navarro
 Eduardo Fernandez Grandizo Long
+>>>>>>> 551161b5452cc8b0221cde759a9baeedbd2e4912
