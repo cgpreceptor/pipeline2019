@@ -9,7 +9,8 @@ Douglas Woolfolk Martinez
 Pablo Montenegro Bueno
 Mariana Alejandra Luna López
 <<<<<<< HEAD
-Majo Manzo
+Majo Manzo*
+
 
 
 =======
