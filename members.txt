@@ -1,5 +1,10 @@
+<<<<<<< HEAD
+Hasiel Hassan Alvarez Zavala
+<3 Adriana Perez Alvarado
+=======
 ﻿# Hasiel Hassan Alvarez Zavala
 Adriana Perez Alvarado
+>>>>>>> 7b9751cef59f1de67e74084e4656d01afe7ec408
 Luis Ernesto Soto Valle Chang
 <<<<<<< HEAD
 =======
