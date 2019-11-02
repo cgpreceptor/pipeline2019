@@ -1,9 +1,17 @@
-Hasiel Hassan Alvarez Zavala
+﻿# Hasiel Hassan Alvarez Zavala
 Adriana Perez Alvarado
 Luis Ernesto Soto Valle Chang
+<<<<<<< HEAD
+|°| Cristian Neftali Mendoza
+=======
 Constantino Valenzuela González
 Cristian Neftali Mendoza
+<<<<<<< HEAD
 °Andres Salvador Silva Fdz
+=======
+>>>>>>> 551161b5452cc8b0221cde759a9baeedbd2e4912
+Andres Salvador Silva Fdz
+>>>>>>> 7b9751cef59f1de67e74084e4656d01afe7ec408
 Diego Fernando Zetter Cervantes
 Douglas Woolfolk Martinez
 Pablo Montenegro Bueno
