@@ -17,5 +17,12 @@ Diego Fernando Zetter Cervantes
 Douglas Woolfolk Martinez
 Pablo Montenegro Bueno
 Mariana Alejandra Luna López
+<<<<<<< HEAD
+Majo Manzo*
+
+
+
+=======
 Oscar Moctezuma Bermúdez Navarro
 Eduardo Fernandez Grandizo Long
+>>>>>>> 551161b5452cc8b0221cde759a9baeedbd2e4912
